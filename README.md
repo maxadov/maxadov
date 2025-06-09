@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hi there, I'm Aydyn Maxadov</h1>
 
 <p align="center">
-  Currently working on <a href="https://github.com/maxadov/KovalskyAI">KovalskyAI</a> – a local AI assistant built with love.
+  Currently working on <a href="https://github.com/maxadov/KovalskyAI">KovalskyAI</a> – a local AI assistant built with love.<br>
+  You can learn more and explore the project details on our <a href="https://maxadov.github.io/KovalskyAI/">GitHub Pages site</a>.
 </p>
+
 
 ---
 
